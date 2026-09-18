@@ -16,6 +16,8 @@
 
 ![Detailed Analysis](dashboard_3.PNG)
 
+### Dataset Priview
+
 ![Detailed Analysis](dashboard_4.PNG)
 
 The Advanced Sales Data Analytics Dashboard is a professional Data Analytics project developed using Python, Pandas, Plotly, and Streamlit.
