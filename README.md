@@ -2,6 +2,20 @@
 
 ## Project Overview
 
+## 📸 Dashboard Preview
+
+### 📊 Dashboard Overview
+
+![Dashboard Overview](dashboard1.PNG)
+
+### 📈 Sales Analytics
+
+![Sales Analytics](dashboard2.PNG)
+
+### 📋 Detailed Analysis
+
+![Detailed Analysis](dashboard3.PNG)
+
 The Advanced Sales Data Analytics Dashboard is a professional Data Analytics project developed using Python, Pandas, Plotly, and Streamlit.
 
 This project performs data cleaning, exploratory data analysis (EDA), business analysis, and interactive dashboard visualization using a Superstore Sales Dataset.
